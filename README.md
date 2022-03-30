@@ -1,2 +1,1 @@
-# cv
-Live server https://salitordjman.github.io/cv/ 
+# https://salitordjman.github.io/cv/ 
